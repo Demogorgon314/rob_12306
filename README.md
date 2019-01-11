@@ -35,7 +35,12 @@ GoogleDriver
     tj=%%u5929%%u6D25%%2CTJP
     
     
-### 谢谢大家
+### 关于赞助
+
+如果觉得这个项目对你有帮助，有工程或者视野上的启发，
+
+本着自愿原则进行赞助 
+
 
 ![avatar](png/wxzf.jpg)
 ![avatar](png/zfb.jpg)
