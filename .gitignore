@@ -48,3 +48,18 @@ docs/_build/
 .idea
 
 *.txt
+.DS_Store
+.idea
+*.iml
+logs/
+*/logs
+build
+*/build
+target
+*/target
+classes
+*/classes
+*.pyc
+*.gz
+disconf/
+dependency-reduced-pom.xml
