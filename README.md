@@ -23,8 +23,8 @@ GoogleDriver
     
 ### 旅客信息
 
-在 data/12306.conf 中配置
-城市信息在city.conf 中配置
+在 conf/12306.conf 中配置
+城市信息在 city.conf 中配置
 
 
 ![avatar](png/c192293262e9f34e2dc0014084cdca3.png)
@@ -37,8 +37,8 @@ GoogleDriver
     
 ### 谢谢大家
 
-![avatar](png/wxzf.png)
-![avatar](png/zfb.png)
+![avatar](png/wxzf.jpg)
+![avatar](png/zfb.jpg)
 
 
 
